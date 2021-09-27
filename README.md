@@ -6,7 +6,7 @@
 
 ### Bill of materials
 * TP-Link Archer C7 v2
-* Associate power supply
+* Associated power supply
 * Ethernet cable
 * Computer with Linux operating system, web browser, and Ethernet port
 
