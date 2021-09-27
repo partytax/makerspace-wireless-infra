@@ -1,5 +1,7 @@
 # How to build a makerspace wireless network
 
+![three colorful gradients representing wireless network signal ranges](assets/colorful-networks.png)
+
 ## Hardware
 
 ### Bill of materials
