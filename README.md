@@ -21,7 +21,7 @@
 * [LibreMesh router firmware](https://libremesh.org)
     
 ### Instructions for installing LibreMesh
-* Use a web browser to navigate to 192.168.1.1 or 192.168.0.1 (we forget which)
+* Use a web browser to navigate to 192.168.0.1
 * Log into TP-Link web interface with:
     * Username: `admin`
     * Password: `admin`
@@ -29,4 +29,4 @@
 * Update firmware in TP-Link interface, selecting downloaded LibreMesh firmware binary
 
 ### Instructions for reinstalling TP-Link firmware
-* Not implemented
+* Not implemented (something involving TFTP)
