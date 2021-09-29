@@ -30,3 +30,6 @@
 
 ### Instructions for reinstalling TP-Link firmware
 * Not implemented (something involving TFTP)
+
+## Alternative approach
+We are also considering OpenWRT's [802.11s implementation](https://openwrt.org/docs/guide-user/network/wifi/mesh/80211s).
