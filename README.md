@@ -33,3 +33,5 @@
 
 ## Alternative approach
 We are also considering OpenWRT's [802.11s implementation](https://openwrt.org/docs/guide-user/network/wifi/mesh/80211s).
+
+Here's an 802.11s tutorial video we used: [https://www.youtube.com/watch?v=cw8ykKgVKbM](https://www.youtube.com/watch?v=cw8ykKgVKbM)
