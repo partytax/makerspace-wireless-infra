@@ -52,3 +52,5 @@ root@madison:/home/vectorspace/Documents/mesh_routing/ArcherC7# sudo tcpdump por
 tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
 listening on experimental, link-type EN10MB (Ethernet), capture size 262144 bytes
 11:25:25.285937 IP 192.168.0.86.3945 > madison.local.tftp:  45 RRQ "ArcherC7v2_tp_recovery.bin" octet timeout 3
+
+
