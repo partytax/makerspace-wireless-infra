@@ -29,6 +29,7 @@ https://openwrt.org/toh/tp-link/archer_c7
 
 ### OpenWRT
 
+
 #### Install OpenWRT
 The Archer C7-v2 doesn't seem to accept the version 21.02.0 firmware from OpenWRT.
 tplink_archer-c7-v2-squashfs-factory-us.bin	7011b53969441d886b1d25ba25a99018ac06246ae6fdf6badd1b302adcc21c3f	15872.0 KB	Thu Sep 2 03:50:37 2021
@@ -45,6 +46,9 @@ The full process looks like,
 5. install wpad-mesh-openssl
 
 #### Configure OpenWRT
+The instructions below detail the steps necessary to enable mesh networking on the router and disable DHCP. We have implemented most of this work in the 'dumb-ap-mesh-wired-link.sh' script.
+
+This script can be uploaded to the router using scp, then executed on the router as a shell script.
 
 ##### Setup Mesh
 
